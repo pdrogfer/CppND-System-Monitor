@@ -1,3 +1,0 @@
-/home/pedro/Dev/Pr_Cpp/Udacity/CppND-System-Monitor/CMakeFiles/rebuild_cache.dir
-/home/pedro/Dev/Pr_Cpp/Udacity/CppND-System-Monitor/CMakeFiles/edit_cache.dir
-/home/pedro/Dev/Pr_Cpp/Udacity/CppND-System-Monitor/CMakeFiles/monitor.dir
